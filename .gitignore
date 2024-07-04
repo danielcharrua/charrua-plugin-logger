@@ -1,0 +1,20 @@
+# Editors
+.settings*
+
+# Grunt
+/node_modules/
+/deploy/
+package-lock.json
+
+# Composer
+/vendor/
+composer.lock
+
+# OS X metadata
+.DS_Store
+
+# Windows junk
+Thumbs.db
+
+# Build assets.
+/languages/
